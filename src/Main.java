@@ -3,8 +3,8 @@ public class Main {
         compareNumbers();
     }
     public static void compareNumbers() {
-        int a = 2;
-        int b = 2;
+        int a = 12;
+        int b = 5;
         if (a>=b) {
             System.out.println("a >= b");
         } else {
